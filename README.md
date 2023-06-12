@@ -2,7 +2,7 @@
 
 (**July 28, 2021**) Add ViT-B/16 with an extra `--pretrained_clip_name`
 
-(**Apr. 22, 2021**) First version 
+(**Apr. 22, 2021**) First version  
 
 The implementation of paper [**CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval**](https://arxiv.org/abs/2104.08860). 
 
